@@ -1,0 +1,20 @@
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.project-button, .hireme-button {
+    font-size:40px;
+    margin-right:100px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    color:white;
+    background-color:rgb(195, 82, 30);
+    border-style:solid;
+    border-color: none;
+    border-radius:60px;
+    margin-top:100px;
+}

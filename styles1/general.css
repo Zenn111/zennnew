@@ -1,0 +1,15 @@
+body {
+    font-family:Josefin Sans, arial;
+}
+
+button {
+    cursor:pointer;
+}
+
+button:hover {
+    opacity: 0.6;
+}
+
+button:active {
+    opacity: 0.3;
+}

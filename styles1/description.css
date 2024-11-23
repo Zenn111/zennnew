@@ -1,0 +1,26 @@
+.description {
+    color:white;
+    width: 1000px;
+    font-size:30px;
+    text-align: left;
+    margin-top:200px;
+    margin-left:50px;
+    position: relative;
+}
+
+.white-class {
+    width: 1050px;
+    margin-right:0px;
+    padding-bottom:5px;
+    height:280px;
+    margin-top:-100px;
+}
+
+.about-me {
+    position:absolute;
+    top:0;
+    color:black;
+    padding-left:50px;
+    padding-top:50px;  
+    margin-top:-100px;
+}

@@ -1,0 +1,45 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+} 
+
+.name {
+    color:white;
+    font-size:50px;
+    margin-top:50px;
+    margin-left:20px;
+}
+
+.border-class{
+    width:500px;
+    height:10px;
+    margin-top:20px;   
+}
+
+.mypic {
+    width:600px;
+    margin-top: 50px;
+    margin-right:0px;
+}
+
+.hobby1 {
+    color:white;
+    font-size:130px;
+    margin-left:20px;
+    margin-top:50px;
+    width: 100%;
+}
+
+.hobby2 {
+    color:white;
+    font-size:130px;
+    margin-left:130px;
+}
+
+.hobby3 {
+    color:white;
+    font-size:30px;
+    margin-left:10px;
+    margin-top:100px;
+}
+
